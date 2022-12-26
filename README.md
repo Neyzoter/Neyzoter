@@ -2,7 +2,7 @@
 
 欢迎来到宋超超的Github空间！
 
-- 🔭 最近正在学习数据库
+- 🔭 最近正在学习时序数据库内核
 - 🤔 欢迎参观[查尔de个人主页](https://neyzoter.cn)
 - 💬 我的联系方式：sonechaochao@gmail.com，每天都会查看邮箱哦
 
