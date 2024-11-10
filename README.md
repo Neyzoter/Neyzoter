@@ -4,7 +4,7 @@
 
 Welcome to Chaochao Song's space!
 
-- 🔭 Researching TSDB for industry
+- 🔭 Researching OLAP, mainly focus on ClickHouse
 - 🤔 Welcome to [MyBlog](https://neyzoter.cn)
 - 💬 Contact: sonechaochao@gmail.com
 - 📋 View [MyResume](https://github.com/Neyzoter/Neyzoter.github.io/tree/master/CV)
